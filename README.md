@@ -7,3 +7,4 @@ ou não.
 eita.
 ooooooia
 agora vai
+de preferencia tentar quando o servico estiver rodando.
